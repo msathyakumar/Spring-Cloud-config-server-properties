@@ -1,9 +1,9 @@
 spring:
   datasource:
-    driverClassName:com.mysql.jdbc.Driver
-    url:jdbc:mysql://localhost/infytel-customer
-    username:root
-    password:root
+    driverClassName: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost/infytel-customer
+    username: root
+    password: root
   jpa:
     hibernate:
-      ddl-auto:update
+      ddl-auto: update
