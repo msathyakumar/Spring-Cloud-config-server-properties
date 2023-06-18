@@ -9,4 +9,4 @@ spring:
       ddl-auto: update
       
 customer:
-  name: sathya
+  name: m sathya kumar reddy
