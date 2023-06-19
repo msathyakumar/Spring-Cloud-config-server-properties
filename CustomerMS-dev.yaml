@@ -10,3 +10,9 @@ spring:
       
 customer:
   name: m sathya kumar reddy
+
+friend:
+  uri: http://localhost:8200/
+
+plan:
+  uri: http://localhost:8100/
